@@ -1,3 +1,3 @@
 # PersonalProjects
-Projetos pessoais
-a
+
+Aqui ficam todos meus projetos pessoais, compactados em arquivos .zip
