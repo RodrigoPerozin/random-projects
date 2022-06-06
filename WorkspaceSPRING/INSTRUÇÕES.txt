@@ -1,0 +1,21 @@
+Bom, aqui está o desafio back-end.
+
+1 - Foi Desenvolvido na IDE Eclipse 2022
+2 - Foi utilizado Spring Boot para a criação e configuração do projeto
+3 - Configurações do Spring Boot: H2 Database, Spring DevTools, Spring Web, Lombok.
+4 - Para subir o projeto foi necessário instalar pelo Eclipse Marketplace o "Sprign Tools for eclipse"
+5 - Foi utilizado o Maven para tratar das dependências do projeto.
+6 - Para testes foi utilizado a ferramenta Postman, então deixei na pasta do projeto um .json que é só
+    importar lá no Postman para já ter as requisições pré preparadas.
+
+Esse é a primeira API Rest que eu faço com Spring Boot, então houve uns contratempos,
+portanto o projeto está 95% concluído, pois acabei não tendo tempo para concluir, apareceu uns erros
+que eu ainda estou tentando resolver, mas com certeza nada que mais um pouco de trabalho não resolva.
+Idependente do resultado, evoluí muito nesse projetinho, aprendi tecnologias novas e uma nova forma
+de desenvolver.
+
+Também estava a desenvolver esse projeto apenas usando a base do Java, caso queiram dar uma olhada,
+é só baixar o zip, extrair a Workspace, abrir ela e rodar no eclipse normalmente.
+
+Att,
+  Rodrigo Destri Perozin
