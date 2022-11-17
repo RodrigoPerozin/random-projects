@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.bgImage{
+    background: url('../imgs/background.jpg') no-repeat center center;
+    background-size: cover;
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    filter: brightness(90%);
+}
+
+.form-group{
+    color: #e4e4e4;
+    text-shadow: #000000 2px 2px 5px;
+    font-size: 38px;
+    font-family: cursive;
+}
+
+.input-transparent{
+    opacity: 0.6;
+    height: 60px;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.header{
+    text-align: center;
+    color: #e4e4e4;
+    text-shadow: #000000 2px 2px 5px;
+    font-size: 42px;
+    font-family: cursive;
+    background-color: #ffc107;
+    padding: 10px;
+    margin: 0;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+h1{
+    margin: 0;
+}
+
+.acessBtn{
+    padding: 0;
+    font-size: 38px;
+    font-family: cursive;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.title{
+    text-decoration: none;
+    font-family: cursive;
+    color: #ffffff;
+    margin: 0;
+    padding: 12px;
+    font-size: 28px;
+}
+
+.navegacao{
+    text-decoration: none;
+    font-family: cursive;
+    color: #e4e4e4; 
+    margin: 0;
+    padding: 10px;
+    font-size: 28px;
+}
+
+.navegacao:hover{
+    text-decoration: none;
+    font-family: cursive;
+    color: #ffffff; 
+    margin: 0;
+    padding: 10px;
+    font-size: 29px;
+}
+
+.dinamic-pages-div{
+    width: 90%;
+    height: 500px;
+    background-color: #343a40;
+    opacity: 0.95;
+    margin-top: 3.5%;
+    padding: 15px;
+    border-radius: 10px;
+}
+h2{
+    font-family: cursive;
+    color: #e4e4e4;
+    font-size: 28px;
+}
+
+li{
+    font-family: cursive;
+    color: #e4e4e4;
+    font-size: 21px;
+}
+
+.yellow-bar{
+    border-left: 2px solid #ffc107;
+}
+
+a:hover li{
+    font-size: 22px;
+}
+
+.centered{
+    text-align: center;
+}
+
+.table-rod{
+    text-align: center;
+}
+
+td{
+    font-family: cursive;
+    font-size: 13px;
+}
+
+p{
+    font-family: cursive;
+    color: #e4e4e4;
+    font-size: 18px;
+}
+
+.checkbox-rod{
+    width: 30px;
+    height: 30px;
+}
+
+label h2{
+    margin: 0;
+}
+
+.editar-img{
+    width: 20px; height: 20px;
+}
