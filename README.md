@@ -1,3 +1,3 @@
 # PersonalProjects
 
-Aqui ficam todos meus projetos pessoais compactados.
+Aqui ficam todos meus projetos pessoais.
